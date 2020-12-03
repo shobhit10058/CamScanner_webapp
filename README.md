@@ -1,4 +1,4 @@
-![KWOC](https://img.shields.io/badge/KWOC-running-red)
+![KWOC](https://img.shields.io/badge/KWOC-red)
 ## CamScan
 This a lightweight tool for making documents on the fly :running: from camera images.
 So this uses OpenCV and Django in tandom also pillow is used to make the pdf
